@@ -1,6 +1,6 @@
 *My first readme*
 
-1. Learning to push and pull from local to remote and vice versa:
+1. Learning to push and pull from local to remote and vice versa.
 * command used is git pull to update local repository with remote.
 * command used is git push to push local change to remote repository
 
